@@ -350,3 +350,163 @@ tmpfs           1.7G  4.0M  1.7G   1% /tmp
 tmpfs           336M  132K  336M   1% /run/user/1000
 /dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
 
+=== System Log: Tue Mar 10 22:50:01 EDT 2026 ===
+ 22:50:01 up  2:50,  1 user,  load average: 0.07, 0.06, 0.07
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.1Gi       210Mi        56Mi       1.1Gi       1.2Gi
+Swap:          3.5Gi       143Mi       3.3Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.3M  669M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
+
+=== System Log: Tue Mar 10 22:51:03 EDT 2026 ===
+ 22:51:03 up  2:52,  1 user,  load average: 0.08, 0.06, 0.07
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.1Gi       211Mi        56Mi       1.1Gi       1.2Gi
+Swap:          3.5Gi       143Mi       3.3Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.3M  669M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
+
+=== System Log: Tue Mar 10 22:52:01 EDT 2026 ===
+ 22:52:01 up  2:52,  1 user,  load average: 0.03, 0.05, 0.07
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       219Mi        56Mi       1.1Gi       1.2Gi
+Swap:          3.5Gi       143Mi       3.3Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.3M  669M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
+
+=== System Log: Tue Mar 10 22:53:02 EDT 2026 ===
+ 22:53:02 up  2:53,  1 user,  load average: 0.14, 0.07, 0.07
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       233Mi        54Mi       1.2Gi       1.3Gi
+Swap:          3.5Gi       177Mi       3.3Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.3M  669M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
+
+=== System Log: Tue Mar 10 22:54:01 EDT 2026 ===
+ 22:54:01 up  2:54,  1 user,  load average: 0.09, 0.07, 0.07
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       201Mi        54Mi       1.2Gi       1.2Gi
+Swap:          3.5Gi       177Mi       3.3Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.3M  669M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
+
+=== System Log: Tue Mar 10 22:55:01 EDT 2026 ===
+ 22:55:01 up  2:55,  1 user,  load average: 0.03, 0.05, 0.07
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       199Mi        54Mi       1.2Gi       1.2Gi
+Swap:          3.5Gi       177Mi       3.3Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.3M  669M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
+
+=== System Log: Tue Mar 10 22:56:01 EDT 2026 ===
+ 22:56:01 up  2:56,  1 user,  load average: 0.12, 0.07, 0.07
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       198Mi        54Mi       1.2Gi       1.2Gi
+Swap:          3.5Gi       177Mi       3.3Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.3M  669M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
+
+=== System Log: Tue Mar 10 22:57:01 EDT 2026 ===
+ 22:57:01 up  2:57,  1 user,  load average: 0.38, 0.15, 0.10
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       233Mi        51Mi       1.2Gi       1.3Gi
+Swap:          3.5Gi       235Mi       3.2Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.3M  669M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
+
+=== System Log: Tue Mar 10 22:58:01 EDT 2026 ===
+ 22:58:01 up  2:58,  1 user,  load average: 0.18, 0.13, 0.09
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       214Mi        51Mi       1.2Gi       1.3Gi
+Swap:          3.5Gi       235Mi       3.2Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.3M  669M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
+
+=== System Log: Tue Mar 10 22:59:01 EDT 2026 ===
+ 22:59:01 up  2:59,  1 user,  load average: 0.11, 0.12, 0.09
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       208Mi        51Mi       1.2Gi       1.3Gi
+Swap:          3.5Gi       235Mi       3.2Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.3M  669M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        102M  102M     0 100% /media/kostapro/CDROM
+
